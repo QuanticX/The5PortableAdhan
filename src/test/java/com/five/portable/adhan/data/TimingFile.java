@@ -1,0 +1,7 @@
+package com.five.portable.adhan.data;
+
+public class TimingFile {
+  public TimingParameters params;
+  public TimingInfo[] times;
+  public long variance;
+}
